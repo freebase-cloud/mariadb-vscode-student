@@ -1,0 +1,7 @@
+{
+  "name": "mariadb-vscode-student",
+  "engine": "mariadb",
+  "slug": "mariadb",
+  "kind": "student",
+  "useCase": "student"
+}
